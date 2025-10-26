@@ -1,2 +1,2 @@
 # PathFinder
-Using Raylib to make a grid and adding obstacle on it by clicking SHIFT + MOUSE_LEFT , it will find a path without colliding betwen two point (MOUSE_LEFT, MOUSE_RIGHT), Reset by pressing R
+Using Raylib to create a grid, you can add obstacles by holding SHIFT and clicking LEFT MOUSE BUTTON. The program then finds a path between two points (set with LEFT and RIGHT MOUSE BUTTONS) using the A* algorithm, avoiding collisions. Press R to reset
